@@ -15,7 +15,7 @@ print_lock = threading.Lock()
 checked = 0
 valid_count = 0
 start_time = None
-webhook_url = "https://discord.com/api/webhooks/1441826284295688314/l1V-bxM0CVaHNMCe97vcaH9YW0X6JiBKgG0Ad9U1RAMwl5C9Wi3iRe10ega3LIB0HGxe"  # Replace with your actual webhook URL
+webhook_url = ""  # Replace with your actual webhook URL
 
 def set_terminal_title(title):
     if os.name == 'nt':
