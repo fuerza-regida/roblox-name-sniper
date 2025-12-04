@@ -10,6 +10,8 @@ You can try setting it to generate 4 digits as I've shown in this image in maker
 
 <img width="834" height="56" alt="image" src="https://github.com/user-attachments/assets/6fff16ed-4b86-4b25-8d2e-c3b7fe12ff53" />
 
+just change the range for 4 
+
 
 
 Please don't make this code your own, Or don't even try to sell it, it's for y'all, peace.
