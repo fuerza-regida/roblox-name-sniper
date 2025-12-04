@@ -2,7 +2,7 @@ import random
 import string
 
 def generate_valid_roblox_usernames():
-    """Genera y guarda una cantidad específica de nombres de usuario aleatorios."""
+    """generator"""
     while True:
         try:
             num_usernames = int(input("¿Cuántos nombres de usuario quieres generar? (máximo 50000): "))
