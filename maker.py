@@ -17,7 +17,7 @@ def generate_valid_roblox_usernames():
         print(f"Generating {num_usernames} usernames...")
         for i in range(num_usernames):
             # Genera nombres de 5 caracteres con letras minúsculas y números
-            username = ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(4))
+            username = ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(5))
             file.write(username + "\n")
 
     print(f"\n¡Process complete! Files have been generated and saved. {num_usernames} usernames in usernames.txt")
