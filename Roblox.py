@@ -82,7 +82,7 @@ def process_username(username):
             inf.write(f"[{timestamp}] {username}\n")
 
 def animate_gradient_logo(logo_text, colors, max_width=80, duration=2, delay=0.05):
-    """Imprime el logo con una animación de degradado horizontal en el lugar."""
+    """print logo"""
     lines = logo_text.strip('\n').split('\n')
     num_lines = len(lines)
     color_offset = 0
